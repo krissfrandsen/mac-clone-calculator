@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+}
+
+.row-item {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  background-color: #878888;
+  flex: 1;
+  outline: 1px solid #606263;
+}
+
+.row-item:nth-child(2) {
+  flex: 0;
+  flex-basis: 25%;
+}

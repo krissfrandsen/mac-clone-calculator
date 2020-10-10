@@ -1,0 +1,17 @@
+.button {
+  border: none;
+  background-color: #878888;
+  font-size: 1.4em;
+  color: #ececec;
+  font-weight: lighter;
+  width: 100%;
+}
+
+.button__operator {
+  background-color: #ff9f0c;
+  color: #fef0de;
+}
+
+.row-item__reset {
+  background-color: #696c6c;
+}

@@ -5,6 +5,11 @@
   color: #ececec;
   font-weight: lighter;
   width: 100%;
+  outline: 1px solid #606263;
+}
+
+.button:active {
+  background-color: #d9d9d9;
 }
 
 .button__operator {
@@ -12,6 +17,14 @@
   color: #fef0de;
 }
 
+.button__operator:active {
+  background-color: #d98940;
+}
+
 .row-item__reset {
   background-color: #696c6c;
+}
+
+.row-item__reset:active {
+  background-color: #737373;
 }

@@ -22,6 +22,7 @@ const Button = ({ type, onButtonClick, value, className }) => {
 
 Button.propTypes = {
   value: PropTypes.string,
+  onClick: PropTypes.func,
   type: PropTypes.oneOf(["reset", "number", "operator"])
 };
 

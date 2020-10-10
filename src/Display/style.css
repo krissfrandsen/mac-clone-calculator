@@ -1,10 +1,11 @@
 .display {
-  background: #616263;
+  background: #646566;
   text-align: right;
   font-size: 50px;
   padding: 10px 10px;
+  font-family: "Nunito", sans-serif;
   font-weight: 200;
   color: white;
-  outline: 1px solid #616263;
+  outline: 1px solid #646566;
   height: 60px;
 }

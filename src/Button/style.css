@@ -1,9 +1,9 @@
 .button {
   border: none;
   background-color: #878888;
-  font-size: 1.4em;
+  font-size: 30px;
   color: #ececec;
-  font-weight: lighter;
+  font-family: "Nunito", sans-serif;
   width: 100%;
   outline: 1px solid #606263;
 }

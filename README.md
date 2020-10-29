@@ -1,5 +1,7 @@
 # Apple Mac Clone Calculator
 
-Clone of Apple Mac Calculator using React!
+Clone of Apple Mac Calculator
 
-![demo]()
+![demo](https://github.com/krissfrandsen/mac-clone-calculator/blob/main/public/Screenshot.png?raw=true)
+
+Built with React!

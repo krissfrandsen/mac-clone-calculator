@@ -1,2 +1,5 @@
-# macCalculator
-Created with CodeSandbox
+# Apple Mac Clone Calculator
+
+Clone of Apple Mac Calculator using React!
+
+![demo]()
